@@ -1,1 +1,9 @@
+3D printed arm that contains a differential as a 2 DOF wrist. Utilizes virtual 4 bar to rotate forearm. Contains 2 generic 12V motors, 3 servos, 2 Elegoo ONEs, DROK DC motor controller, breadboard, and an IR remote.
 
+- Will face updates later
+
+Issues:
+- Slight delay from IR remote input
+- Occasional offset from Differential system (Slipping?)
+- Create full movements?
+- Try researching ways to smooth servo movement
